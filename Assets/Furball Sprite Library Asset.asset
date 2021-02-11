@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Furball Sprite Library Asset
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Catball Face
+    m_Hash: 1250364291
+    m_CategoryList:
+    - m_Name: Dying face
+      m_Hash: -862551401
+      m_Sprite: {fileID: -3582150195139972904, guid: 722fee6e64c8d430b82ecd8a8167ec2c,
+        type: 3}
+    - m_Name: Normal Eyes
+      m_Hash: -273391359
+      m_Sprite: {fileID: -2553930758500146810, guid: a4eda663599634deb8b4ac4e65293f52,
+        type: 3}
+    - m_Name: Normal Eyes 2
+      m_Hash: 1059383526
+      m_Sprite: {fileID: -3277808254007474647, guid: 722fee6e64c8d430b82ecd8a8167ec2c,
+        type: 3}
+  - m_Name: Catball Tail
+    m_Hash: 866436281
+    m_CategoryList:
+    - m_Name: Normal Tail
+      m_Hash: 882500042
+      m_Sprite: {fileID: -5679817730499903018, guid: a4eda663599634deb8b4ac4e65293f52,
+        type: 3}
+    - m_Name: Frazzled Tail
+      m_Hash: 1056862972
+      m_Sprite: {fileID: 2930329473208568172, guid: 722fee6e64c8d430b82ecd8a8167ec2c,
+        type: 3}
